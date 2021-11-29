@@ -2,7 +2,7 @@
 
 [Макет](https://upload.wikimedia.org/wikipedia/commons/5/50/Трёхколоночный_типовой_веб-макет.png)
 
-[Демо](https://raw.githack.com/webFarrock/otus-js-basics-lesson-17-hw/gh-pages/index.html)
+[Демо](https://webfarrock.github.io/otus-js-basics-lesson-17-hw/)
 
 
 ## Основные команды
