@@ -1,0 +1,59 @@
+.header {
+    display: flex;
+    background-color: beige;
+    margin: 20px;
+    padding: 20px;
+}
+
+.header .col:first-child {
+    margin-right: 20px;
+}
+
+.header .promo-text p:first-child {
+    margin-top: 0;
+}
+
+.header .promo-text p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.main {
+    display: flex;
+    margin: 20px;
+}
+
+.main .col-articles {
+    background-color: beige;
+    padding: 0 20px 20px 20px;
+    margin: 0 20px;
+}
+
+.main .col-articles article {
+    margin-bottom: 40px;
+}
+
+.main .col-left,
+.main .col-right {
+    flex: 1 25%;
+    background-color: beige;
+    padding: 20px;
+}
+
+.main .col-left section {
+    margin-bottom: 40px;
+}
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: beige;
+    margin: 20px;
+}
+
+.footer .col {
+    margin-right: 20px;
+    /*flex: 1 25%;*/
+}
